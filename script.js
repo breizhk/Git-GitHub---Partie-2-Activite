@@ -11,6 +11,6 @@ function myFunction() {
     } else {
         text = "Input OK";
     }
-    document.getElementById("demo").innerHTML = text
+    document.getElementById("demo").innerHTML = text;
 }
 </script>
